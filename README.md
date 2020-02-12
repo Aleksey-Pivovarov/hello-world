@@ -4,5 +4,4 @@ Hello World.
 My name is Aleksey.
 I'm newby here.
 My hobby is taking out the brain.
-I'm interested in security and trading (Forex, commodity, stocks).
 Thank you.
